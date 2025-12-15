@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "上弦の月",
+  "base_artist": "崎山つばさ with 桜men",
+  "createdAt": "2025-12-15T11:35:07.114260Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "上弦の月",
+      "artist": "黒うさP feat. KAITO",
+      "has_synced": true,
+      "path": "select/01_上弦の月_黒うさP_feat._KAITO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "上弦の月 feat.いかさん",
+      "artist": "黒うさP",
+      "has_synced": true,
+      "path": "select/02_上弦の月_feat.いかさん_黒うさP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "上弦の月",
+      "artist": "黒うさP; いかさん",
+      "has_synced": true,
+      "path": "select/03_上弦の月_黒うさP;_いかさん.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "上弦の月",
+      "artist": "いかさん",
+      "has_synced": true,
+      "path": "select/04_上弦の月_いかさん.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "上弦の月",
+      "artist": "黒うさP Feat. KAITO",
+      "has_synced": true,
+      "path": "select/05_上弦の月_黒うさP_Feat._KAITO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "上弦の月",
+      "artist": "Tsubasa Sakiyama",
+      "has_synced": true,
+      "path": "select/06_上弦の月_Tsubasa_Sakiyama.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "上弦の月 - Jogen no tsuki (feat. KAITO)",
+      "artist": "WhiteFlame",
+      "has_synced": true,
+      "path": "select/07_上弦の月_-_Jogen_no_tsuki_(feat._KAITO)_WhiteFlame.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "上弦の月",
+      "artist": "黒うさＰ feat.初音ミク",
+      "has_synced": true,
+      "path": "select/08_上弦の月_黒うさP_feat.初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "上弦の月",
+      "artist": "Kuro usa P feat. KAITO",
+      "has_synced": false,
+      "path": "select/09_上弦の月_Kuro_usa_P_feat._KAITO.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "上弦の月",
+      "artist": "黒うさP feat.KAITO",
+      "has_synced": false,
+      "path": "select/10_上弦の月_黒うさP_feat.KAITO.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "上弦の月",
+      "artist": "鳴子 郁(CV:佐藤 拓也)",
+      "has_synced": true,
+      "path": "select/11_上弦の月_鳴子_郁(CV_佐藤_拓也).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "上弦の月",
+      "artist": "黒うさP",
+      "has_synced": true,
+      "path": "select/12_上弦の月_黒うさP.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "上弦の月",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/13_上弦の月_VA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "上弦の月",
+      "artist": "崎山つばさ with 桜men",
+      "has_synced": false,
+      "path": "select/pl_01_上弦の月_崎山つばさ_with_桜men.txt"
+    }
+  ]
+}
